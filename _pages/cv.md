@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-My CV is available for download [here](https://malonge.github.io/files/malonge_cv.pdf)
+My CV is available for download [here](https://malonge.github.io/files/malonge_cv.pdf).
