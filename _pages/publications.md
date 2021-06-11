@@ -9,6 +9,12 @@ author_profile: true
 
 You can also find my articles on <a href="https://scholar.google.com/citations?user=5zUWawIAAAAJ&hl=en">my Google Scholar profile</a>.
 
+- Naish, Alonge, and Wlodzimierz, et al. ["The genetic and epigenetic landscape of the Arabidopsis centromeres"](https://www.biorxiv.org/content/10.1101/2021.05.30.446350v2.abstract)
+
+- Pereira, Lara, et al. ["Natural genetic diversity in tomato flavor genes."](https://vanderknaaplab.uga.edu/files/Pereira%20et%20al%20FPS.pdf) Frontiers in Plant Science 12 (2021): 914.
+
+- Nurk, Koren, and Rhie, et al. ["The complete sequence of a human genome"](https://www.biorxiv.org/content/10.1101/2021.05.26.445798v1) bioRxiv (2021).
+
 - Alonge and Shumate, et al. ["Chromosome-Scale Assembly of the Bread Wheat Genome Reveals Thousands of Additional Gene Copies."](https://www.genetics.org/content/early/2020/08/12/genetics.120.303501) Genetics (2020).
 
 - Alonge and Wang, et al. ["Major Impacts of Widespread Structural Variation on Gene Expression and Crop Improvement in Tomato."](https://www.sciencedirect.com/science/article/pii/S0092867420306164) Cell (2020).

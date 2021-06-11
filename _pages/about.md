@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal website! The site is currently under construction.
+Welcome to my personal website! Use the menu to see my CV, talks, and publications.
