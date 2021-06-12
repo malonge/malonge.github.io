@@ -9,7 +9,7 @@ author_profile: true
 
 You can also find my articles on <a href="https://scholar.google.com/citations?user=5zUWawIAAAAJ&hl=en">my Google Scholar profile</a>.
 
-- Naish, Alonge, and Wlodzimierz, et al. ["The genetic and epigenetic landscape of the Arabidopsis centromeres"](https://www.biorxiv.org/content/10.1101/2021.05.30.446350v2.abstract)
+- Naish, Alonge, and Wlodzimierz, et al. ["The genetic and epigenetic landscape of the Arabidopsis centromeres"](https://www.biorxiv.org/content/10.1101/2021.05.30.446350v2.abstract) bioRxiv (2021).
 
 - Pereira, Lara, et al. ["Natural genetic diversity in tomato flavor genes."](https://vanderknaaplab.uga.edu/files/Pereira%20et%20al%20FPS.pdf) Frontiers in Plant Science 12 (2021): 914.
 
